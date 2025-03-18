@@ -32,6 +32,3 @@ g++ decentralized_cloud_storage.cpp -o storage -lssl -lcrypto
 - Implement a peer-to-peer network for true decentralization.
 - Add encryption for file security.
 - Introduce access control and authentication mechanisms.
-
-## License
-This project is open-source and can be modified freely.
